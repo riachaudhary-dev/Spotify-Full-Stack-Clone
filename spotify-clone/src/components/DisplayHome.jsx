@@ -27,7 +27,7 @@ const DisplayHome = () => {
                             key={index}
                             name={item.name}
                             desc={item.desc}
-                            id={index}
+                             id={item._id}
                             image={item.image}
                         />
                     ))}
