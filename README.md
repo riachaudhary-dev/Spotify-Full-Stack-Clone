@@ -135,7 +135,27 @@ npm run dev
 Keep all three applications running while testing locally.
 
 
-<!-- Add screenshots here after capturing them -->
+
+
+📸 Screenshots
+
+# Spotify User Application
+
+![Spotify Homepage](./spotify-home.png)
+
+# Admin Dashboard
+
+Add Song
+
+![Admin Add Song](./Spotify-Admin-AddSong.png)
+
+List Songs
+
+![Admin List Songs](./Admin-Spotify-SongList.png)
+
+List Albums
+
+![Admin List Albums](./Spotify-Admin-AlbumList.png)
 
 # Project Purpose
 
